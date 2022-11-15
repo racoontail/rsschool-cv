@@ -1,16 +1,18 @@
 ## **Nikolay Nidyalkov** 
+
 ### Junior front-end developer
 
 ![my_photo](photo_1.jpg)
+
 ### Contact info
 
 **Location:** Batumi, Georgia
 
 **Phone:** +995598787279
 
-**Telegram:** https://t.me/chelovek_travin
+**Telegram:** [@chelovek_travin](t.me/chelovek_travin "my telegram")
 
-**Email:** fluffyracoontail@gmail.com
+**Email:** <fluffyracoontail@gmail.com>
 
 ---
 
@@ -28,18 +30,23 @@
 
 ### Skills
 
-### *Program language:*
- * SQL (writing simple queries)
- * HTML5/CSS3/JS (studying now)
+#### *Program language:*
 
-### *Software:* 
+ * SQL (writing simple queries)
+ * HTML5 (studying now)
+ * CSS3 (studying now)
+ * JS (studying now)
+
+#### *Software:* 
+
 * VS Code
 * Chrome devtools
 * Figma
 * Adobe Photoshop
 * JIRA
 
-### *Language skills:*
+#### *Language skills:*
+
 * Russian (native)
 * English A2 (pre-intermediate)
 
@@ -47,8 +54,8 @@
 
 ### Education
 
-* *2005-2011 Kuban Socio-Economic Institute, faculty of Socio-Cultural Service Tourism (bachelor)*
+*  **2005-2011** *Kuban Socio-Economic Institute, faculty of Socio-Cultural Service Tourism (bachelor)*
 
-* *2000-2002 North Caucasian Technical College "Knowledge", faculty of Economics and Accounting*
+* **2000-2002** *North Caucasian Technical College "Knowledge", faculty of Economics and Accounting*
 
 ---
