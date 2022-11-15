@@ -1,5 +1,5 @@
-**Nikolay Nidyalkov** 
-===
+## **Nikolay Nidyalkov** 
+### Junior front-end developer
 
 ![my_photo](photo_1.jpg)
 ### Contact info
@@ -28,18 +28,18 @@
 
 ### Skills
 
-*Program language:*
+### *Program language:*
  * SQL (writing simple queries)
  * HTML5/CSS3/JS (studying now)
 
-*Software:* 
+### *Software:* 
 * VS Code
 * Chrome devtools
 * Figma
 * Adobe Photoshop
 * JIRA
 
-*Language skills:*
+### *Language skills:*
 * Russian (native)
 * English A2 (pre-intermediate)
 
