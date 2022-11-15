@@ -10,7 +10,7 @@
 
 **Phone:** +995598787279
 
-**Telegram:** [@chelovek_travin](t.me/chelovek_travin "my telegram")
+**Telegram:** [@chelovek_travin](https://t.me/chelovek_travin "my telegram")
 
 **Email:** <fluffyracoontail@gmail.com>
 
