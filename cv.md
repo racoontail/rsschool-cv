@@ -28,18 +28,27 @@
 
 ### Skills
 
-*Program language: SQL (writing simple queries), HTML5/CSS3/JS (studying now)
-Software: VS Code, Chrome devtools, Figma, Adobe Photoshop, JIRA
-Language skills: Russian (native), English A2 (pre-intermediate)*
+*Program language:*
+ * SQL (writing simple queries)
+ * HTML5/CSS3/JS (studying now)
+
+*Software:* 
+* VS Code
+* Chrome devtools
+* Figma
+* Adobe Photoshop
+* JIRA
+
+*Language skills:*
+* Russian (native)
+* English A2 (pre-intermediate)
 
 ---
 
 ### Education
 
-*2005-2011 Kuban Socio-Economic Institute, faculty of Socio-Cultural Service Tourism (bachelor)*
+* *2005-2011 Kuban Socio-Economic Institute, faculty of Socio-Cultural Service Tourism (bachelor)*
 
-*2000-2002 North Caucasian Technical College "Knowledge", faculty of Economics and Accounting*
+* *2000-2002 North Caucasian Technical College "Knowledge", faculty of Economics and Accounting*
 
 ---
-
-
