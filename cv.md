@@ -45,9 +45,9 @@
 
 ### Code example
 
-print("Hello world!");
+print("Hello world!")
 
-\# Пока что я знаю только как писать эту строчку, но благодаря правилам написания комментариев в python, я нашел применение знаку \  в markdown
+\# So far I only know how to write this line, but thanks to the rules of writing comments in python, I found a use for \ sign in markdown
 
 ---
 
@@ -61,13 +61,13 @@ print("Hello world!");
 
 * **2021** *UI designer: practical skills of an interface designer (course within the framework of the national project "Demography")*
 
-*  **2005-2011** *Kuban Socio-Economic Institute, faculty of Socio-Cultural Service Tourism (bachelor)*
+*  **2005-2011** *Kuban Socio-Economic Institute, faculty of Socio-Cultural Service and Tourism*
 
 * **2000-2002** *North Caucasian Technical College "Knowledge", faculty of Economics and Accounting*
 
 ---
 
-### Language skills:
+### Language:
 
 * *Russian (native)*
 
