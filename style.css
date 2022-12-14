@@ -1,7 +1,205 @@
-h1 {
-color: white;
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
 }
-
-p {
-color: red;
+html {
+  scroll-behavior: smooth;
+}
+body {
+  display: flex;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  min-width: 100vw;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.5;
+  text-shadow: 0 1px 2px rgba(0 0 0 / 0.3), 1px 2px 5px rgba(255, 0, 0, 0.1);
+  background: linear-gradient(rgb(247, 233, 220), rgb(246, 232, 228), rgb(247, 233, 220));
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100vw;
+  height: 8vh;
+  background: linear-gradient(rgb(190, 168, 159), rgb(228, 205, 183), rgb(247, 233, 220), rgb(250, 242, 239), rgb(247, 233, 220), rgb(228, 205, 183), rgb(190, 168, 159));
+}
+.title {
+  text-transform: uppercase;
+  line-height: 48px;
+}
+.sub-title {
+  line-height: 48px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  max-width: 60vw;
+  min-height: 84vh;
+  min-width: 60vw;
+  justify-content: flex-start;
+  line-height: 32px;
+}
+.section-headline {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  min-width: 100%;
+  max-width: 100%;
+  padding: 0 0 0 25px;
+  margin: 30px;
+  font-weight: 600;
+}
+.section-name {
+  display: flex;
+  min-width: 100%;
+  max-width: 50%;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 40px 0 40px 0;
+}
+.name {
+  display: flex;
+  min-width: 40%;
+  max-width: 40%;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.section-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  min-width: 100%;
+  max-width: 100%;
+}
+.section-img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 80%;
+  box-shadow: 0 1px 18px rgb(0 0 0 / .5);
+  filter: grayscale(0.1) brightness(1.05);
+}
+.section {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  min-width: 50%;
+  max-width: 100%;
+  padding: 0 0 0 25px;
+}
+ul {
+  list-style: none;
+  margin: 15px 0;
+}
+span {
+  font-weight: 400;
+}
+.section-paragraph {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 15px;
+}
+.section-list {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 15px;
+}
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: 60vw;
+  min-width: 60vw;
+  font-size: 14px;
+  font-weight: 600;
+  align-items: center;
+  align-content: center;
+  padding: 5px;
+  margin: 0;
+  list-style: none;
+}
+.nav-link {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+  font-size: 14px;
+  font-weight: 600;
+  align-items: center;
+  align-content: center;
+  padding: 5px;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  transition: .3s;
+}
+a:link {
+  color: #76002d;
+}
+a:visited {
+  color: #640043;
+}
+a:active {
+  color: rgb(255, 38, 0);
+}
+.nav-link:hover {
+  font-size: 18px;
+  text-shadow: 0 3px 3px rgba(77, 4, 31, 0.7);
+  margin: -3px;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  transition: 0.2s;
+  color: rgb(255, 38, 0);
+}
+.link-outside:hover {
+  text-decoration: none;
+  font-weight: 600;
+  text-shadow: 0 3px 3px rgba(77, 4, 31, 0.7);
+  transition: .3s;
+}
+ul {
+  margin: 0 0 0 10px;
+}
+.scroll {
+  margin: 10px;
+  object-fit: cover;
+  border-radius: 70%;
+  box-shadow: rgba(2,0,0,5.5) 0px 1px 3px;
+  filter: grayscale(0.1) brightness(.95);
+}
+.scroll:hover {
+  scale: 1.1;
+  transition: .2s;
+}
+.img-link:hover {
+  object-fit: cover;
+  filter: grayscale(0.1) brightness(.55);
+  transition: .2s;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100vw;
+  height: 8vh;
+  box-shadow: 0 3px 15px rgb(0 0 0 / 35%);
+  background: linear-gradient(rgb(190, 168, 159), rgb(228, 205, 183), rgb(247, 233, 220), rgb(250, 242, 239), rgb(247, 233, 220), rgb(228, 205, 183), rgb(190, 168, 159));
 }

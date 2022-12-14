@@ -2,7 +2,7 @@
 
 ### Junior front-end developer
 
-![my_photo](photo_1.jpg)
+![my_photo](assets/img/photo_1.jpg)
 
 ### Contact info
 
